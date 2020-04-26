@@ -1,0 +1,29 @@
+.Rec{
+    
+    background-color: #efefef;
+    padding-bottom: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    align-items: stretch;
+    
+}
+.Recettes h2{
+    border-bottom:  #474747;
+    padding: 6px 0;
+    display: inline-block;
+    margin-left: 40%;
+    background-color: #272203;
+    width: 230px;
+    text-align: center;
+    color: white;
+    margin-bottom:  30px;
+
+}
+.Recettes{
+    width: 95%;
+    padding: 10px;
+    margin: 4vh auto;
+    background-color: #efefef;
+    height: 90;
+}
