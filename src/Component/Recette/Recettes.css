@@ -7,19 +7,21 @@
     justify-content: left;
     align-items: stretch;
     
+    
 }
+
 .Recettes h2{
     border-bottom:  #474747;
     padding: 6px 0;
     display: inline-block;
     margin-left: 40%;
-    background-color: #272203;
+    background-color:#17a2b8;
     width: 230px;
     text-align: center;
     color: white;
     margin-bottom:  30px;
-
 }
+
 .Recettes{
     width: 95%;
     padding: 10px;
@@ -27,3 +29,20 @@
     background-color: #efefef;
     height: 90;
 }
+
+.Link{
+    width: 95%;
+    margin: auto;
+    height: 90;
+  }
+
+  .Link h4{
+    width: 95%;
+    margin: 5px;
+    height: 90;
+    color:grey;
+  }
+
+
+
+  

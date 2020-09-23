@@ -1,7 +1,7 @@
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
    width: 300px;
-   height: 250px;
+   
     margin: 10px;
     text-align: center;
     background-color: whitesmoke;
@@ -10,17 +10,20 @@
   .card-body{
     text-align: center;
   }
+  .card-title{
+    text-align: center;
+    height: 100px ;
+  }
   .card button {
     border-right:rgb(253, 129, 129);
     border: white;
     padding: 2px;
     outline: 0;
-    color: white;
-    background-color: #000;
     text-align: center;
     cursor: pointer;
-    width: 50%;
+    width: 40%;
     font-size: 18px;
+    margin: 10px;
   }
  
   h1{
@@ -37,4 +40,5 @@
    border: 1px solid #ccc;
     box-sizing:border-box;
   }
+  
   
